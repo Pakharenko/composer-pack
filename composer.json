@@ -7,5 +7,6 @@
             "email": "paharenko1985@mail.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable"
 }
