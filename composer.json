@@ -1,0 +1,11 @@
+{
+    "name": "pakharenko/pro-web",
+    "description": "Shop project",
+    "authors": [
+        {
+            "name": "Pakharenko Evgene",
+            "email": "paharenko1985@mail.ru"
+        }
+    ],
+    "require": {}
+}
